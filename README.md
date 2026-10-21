@@ -2,7 +2,7 @@
 
 An AI study planner that predicts an exam score, classifies risk, names a study persona, and builds a week that changes with those three decisions.
 
-[![CI](https://github.com/Hariti076/studypilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Hariti076/studypilot/actions/workflows/ci.yml)
+[![CI](https://github.com/Varsh2176/studypilot/actions/workflows/ci.yml/badge.svg)](https://github.com/Hariti076/studypilot/actions/workflows/ci.yml)
 
 ## Live Demo
 
@@ -247,4 +247,4 @@ StudyPilot is a study assistant built around three model outputs and a planner t
 
 That combination — a checked model pipeline, a visible decision, and a timetable that moves — is the project.
 
-Dataset: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) by lainguyn123 on Kaggle. Repository: [github.com/Hariti076/studypilot](https://github.com/Hariti076/studypilot).
+Dataset: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) by lainguyn123 on Kaggle. Repository: [github.com/Hariti076/studypilot](https://github.com/Varsh2176/studypilot).
