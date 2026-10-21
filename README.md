@@ -247,4 +247,5 @@ StudyPilot is a study assistant built around three model outputs and a planner t
 
 That combination — a checked model pipeline, a visible decision, and a timetable that moves — is the project.
 
-Dataset: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) by lainguyn123 on Kaggle. Repository: [github.com/Varsh2176/studypilot](https://github.com/Varsh2176/studypilot).
+Dataset: [Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) by lainguyn123 on Kaggle. 
+Repository: [github.com/Varsh2176/studypilot](https://github.com/Varsh2176/studypilot).
